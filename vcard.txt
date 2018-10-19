@@ -1,0 +1,6 @@
+BEGIN:VCARD
+FN:Your Name
+URL:example.org
+EMAIL:you@example.org
+TEL:+111111111
+END:VCARD
