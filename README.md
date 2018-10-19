@@ -1,5 +1,7 @@
 A simple business card written in Asymptote, with lettering in LaTeX.
 
+Licensed under GPLv3.
+
 To generate the front of the card, fill in your details in
 cardfront.asy, and then run
 
